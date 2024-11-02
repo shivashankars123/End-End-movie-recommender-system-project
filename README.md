@@ -1,2 +1,2 @@
-# projects
-movie recommender system using ml,nlp..
+# movie-recommender-system-tmdb-dataset
+A content based movie recommender system using cosine similarity
