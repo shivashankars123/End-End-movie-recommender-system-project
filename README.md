@@ -1,4 +1,4 @@
----------------------------------------------------------------------MOVIE RECOMMENDER SYSTEM README FILE----------------------------------------------------------------------------------
+MOVIE RECOMMENDER SYSTEM README FILE
 
 ## Overview
 This Movie Recommender System is designed to enhance the movie-watching experience by providing personalized recommendations based on user preferences. By utilizing data-driven techniques, the system addresses the problem of information overload, helping users discover films they are likely to enjoy quickly.
