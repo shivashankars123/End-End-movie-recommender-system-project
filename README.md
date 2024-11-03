@@ -61,3 +61,5 @@ The project leverages the following Python libraries:
 - Optimize for scalability using cloud technologies.
 
 This model is live on https://movie-recommender-system-project-by-shiva.onrender.com/#movie-recommender-system 
+please do check out and let me know how you felt about the project 
+                                                            Thank You!
